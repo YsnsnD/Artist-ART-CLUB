@@ -1,2 +1,2 @@
-# Artist-ART-CLUB
-ART CLUB website
+Сайт для художественного кружка для детей
+Html, Css
